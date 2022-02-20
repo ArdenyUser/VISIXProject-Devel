@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VISIX", "VISIX.csproj", "{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Debug|ARM32.Build.0 = Debug|ARM32
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Release|ARM32.ActiveCfg = Release|ARM32
+		{34F0B8DF-7ADA-4C7A-A284-6EFC72BC4BCF}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F419BA-DA3E-4E28-B3BB-82FAC417BBAB}
+	EndGlobalSection
+EndGlobal
